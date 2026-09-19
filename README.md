@@ -35,7 +35,7 @@
 * Testing         : Verify LED operation and circuit connectivity.  
 * Safety          : Ensure proper wire connections and avoid short circuits.  
   
-![result](GREETING_CARD_WITH_LED.jpeg)
+![result](greeting_card_with_led.jpeg)
 
   
 **![][image1]![][image2]**  
